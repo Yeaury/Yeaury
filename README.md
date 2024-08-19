@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 
 
+![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuGgge&theme=主题名)
 
-// github - stats
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=YuGgge&theme=dark&show_icons=true" width="200">
-// most - used-language
-https://github-readme-stats.vercel.app/api/top-langs/?username=YuGgge&layout=compact&hide=html&theme=dark
-// total - contribution
-https://github-readme-streak-stats.herokuapp.com/?user=YuGgge&theme=highcontrast
+![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuGgge&theme=vue)
+
+![img](https://profile-counter.glitch.me/YuGgge/count.svg)
+
+<!-- 可以使用img标签使其右对齐 -->
+<img align='right' src="https://profile-counter.glitch.me/YuGgge/count.svg" width="200">
 
