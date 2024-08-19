@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
+
+
 // github - stats
-https://github-readme-stats.vercel.app/api?username=YuGgge&theme=dark&show_icons=true
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=YuGgge&theme=dark&show_icons=true" width="200">
 // most - used-language
 https://github-readme-stats.vercel.app/api/top-langs/?username=YuGgge&layout=compact&hide=html&theme=dark
 // total - contribution
