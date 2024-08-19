@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-<!--
-**YuGgge/YuGgge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+YuGgge/YuGgge is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m a student majoring in software information security at Fuzhou University, China.
+- 🌱 I’m currently learning java，network security
+
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,12 +19,5 @@ Here are some ideas to get you started:
 
 
 
-![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuGgge&theme=主题名)
-
-![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuGgge&theme=vue)
-
-![img](https://profile-counter.glitch.me/YuGgge/count.svg)
-
-<!-- 可以使用img标签使其右对齐 -->
-<img align='right' src="https://profile-counter.glitch.me/YuGgge/count.svg" width="200">
+[![YuGgge's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuGgge)](https://github.com/anuraghazra/github-readme-stats)
 
