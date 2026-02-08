@@ -24,21 +24,7 @@ Core contributor of the Arthas MCP Server module. **14 PRs Merged** across v4.1.
 
 <!-- ==================== Stats ==================== -->
 
-<div align="center">
-
-![yeaury's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeaury)
-
-<br/>
-
-<!-- 连续贡献（修复域名） -->
-<img src="https://streak-stats.demolab.com/?user=Yeaury&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<!-- 贡献评级奖杯 -->
-<img src="https://github-profile-trophy.vercel.app/?username=Yeaury&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-
-</div>
+[![Yeaury's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeaury)](https://github.com/yeaury/github-readme-stats)
 
 <!-- 贡献蛇形动画（需先配置 GitHub Actions，见下方说明） -->
 <!--
