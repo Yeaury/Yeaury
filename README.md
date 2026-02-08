@@ -6,7 +6,7 @@
 
 🚀 Internship
 
-**Shopee** — Backend Development Intern   2025.12-至今
+**Shopee** — Backend Development Intern   2025.12-current
 
 🌟 Open Source — [Arthas](https://github.com/alibaba/arthas) 
 
