@@ -28,7 +28,13 @@ Core contributor of the Arthas MCP Server module. **14 PRs Merged** across v4.1.
 
 ### 📊 Stats
 
-![yeaury's github stats](https://acedev003-readme-stats.vercel.app/api?username=yeaury&theme=tokyonight&count_private=true&show_icons=true) 
+<a href="https://github.com/yeaury#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/yeaury/profile-readme-stats-card/master/github-readme-stats_yeaury.light.svg#gh-light-mode-only" align="right" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/yeaury#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/yeaury/profile-readme-stats-card/master/github-readme-stats_yeaury.dark.svg#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
+</a>
 
 <br/>
 
