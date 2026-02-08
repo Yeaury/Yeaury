@@ -1,21 +1,18 @@
 ## Hi there 👋
 
-
-## 🙋 About Me
-
 **Fuzhou University · Software Information Security · Class of 2027**
 
 🔍 **Actively seeking internship opportunities in Java Backend / AI Application Development. Feel free to reach out!**
 
-### 🚀 Internship
+🚀 Internship
 
 **Shopee** — Backend Development Intern   2025.12-至今
 
-### 🌟 Open Source — [Arthas](https://github.com/alibaba/arthas) 
+🌟 Open Source — [Arthas](https://github.com/alibaba/arthas) 
 
 Core contributor of the Arthas MCP Server module. **14 PRs Merged** across v4.1.0 ~ v4.1.4.
 
-### 📬 Contact
+📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-yeaury@qq.com-red?style=flat-square&logo=gmail)](mailto:yeaury@qq.com)
 
