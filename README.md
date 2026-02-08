@@ -11,7 +11,7 @@
 
 **Shopee** — Backend Development Intern   2025.12-至今
 
-### 🌟 Open Source — [Alibaba Arthas](https://github.com/alibaba/arthas) 
+### 🌟 Open Source — [Arthas](https://github.com/alibaba/arthas) 
 
 Core contributor of the Arthas MCP Server module. **14 PRs Merged** across v4.1.0 ~ v4.1.4.
 
@@ -28,8 +28,7 @@ Core contributor of the Arthas MCP Server module. **14 PRs Merged** across v4.1.
 
 ### 📊 Stats
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=Yeaury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeaury&layout=compact&theme=tokyonight&hide_border=true" />
+![yeaury's github stats](https://acedev003-readme-stats.vercel.app/api?username=yeaurys&theme=tokyonight&count_private=true&show_icons=true) 
 
 <br/>
 
