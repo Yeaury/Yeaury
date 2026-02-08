@@ -11,7 +11,7 @@
 
 **Shopee** — Backend Development Intern   2025.12-至今
 
-### 🌟 Open Source — [Alibaba Arthas](https://github.com/alibaba/arthas) (37k+ ⭐)
+### 🌟 Open Source — [Alibaba Arthas](https://github.com/alibaba/arthas) 
 
 Core contributor of the Arthas MCP Server module. **14 PRs Merged** across v4.1.0 ~ v4.1.4.
 
@@ -22,22 +22,29 @@ Core contributor of the Arthas MCP Server module. **14 PRs Merged** across v4.1.
 
 ---
 
-### 📊 Stats
+<!-- ==================== Stats ==================== -->
 
 <div align="center">
+
+### 📊 Stats
 
 <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Yeaury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeaury&layout=compact&theme=tokyonight&hide_border=true" />
 
-<!-- 贡献连续打卡 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeaury&theme=tokyonight&hide_border=true" />
+<br/>
 
-<!-- 贡献评级 -->
+<!-- 连续贡献（修复域名） -->
+<img src="https://streak-stats.demolab.com/?user=Yeaury&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<!-- 贡献评级奖杯 -->
 <img src="https://github-profile-trophy.vercel.app/?username=Yeaury&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 
 </div>
 
-<!-- 贡献蛇形动画 -->
+<!-- 贡献蛇形动画（需先配置 GitHub Actions，见下方说明） -->
+<!--
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yeaury/Yeaury/output/github-snake-dark.svg" />
@@ -45,6 +52,7 @@ Core contributor of the Arthas MCP Server module. **14 PRs Merged** across v4.1.
   <img alt="github-snake" src="https://raw.githubusercontent.com/Yeaury/Yeaury/output/github-snake-dark.svg" />
 </picture>
 </div>
+-->
 
 
 
