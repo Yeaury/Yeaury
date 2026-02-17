@@ -8,13 +8,17 @@
 
 **Shopee** — Backend Development Intern   2025.12-current
 
-🌟 Open Source — [Arthas](https://github.com/alibaba/arthas) 
+### 🌟 Open Source
 
-Core contributor of the Arthas MCP Server module. **14 PRs Merged** across v4.1.0 ~ v4.1.4.
+— [Arthas](https://github.com/alibaba/arthas) Core contributor of the Arthas MCP Server module.
+
+— [Spring Ai Alibaba](https://github.com/alibaba/spring-ai-alibaba)
+
 
 📬 Contact
 
-[![Email](https://img.shields.io/badge/Email-yeaury@qq.com-red?style=flat-square&logo=gmail)](mailto:yeaury@qq.com)
+[![Email](https://img.shields.io/badge/Email-yeaury@qq.com-#dfb317?style=flat-square&logo=gmail)](mailto:yeaury@qq.com)
+[![WeChat](https://img.shields.io/badge/WeChat-ZY3144550951-#97ca00?style=flat-square)](mailto:ZY3144550951)
 
 
 ---
