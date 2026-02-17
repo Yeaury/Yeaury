@@ -1,15 +1,12 @@
 ## Hi there 👋
 
-
-## 🙋 About Me
-
 **Fuzhou University · Software Information Security · Class of 2027**
 
 🔍 **Actively seeking internship opportunities in Java Backend / AI Application Development. Feel free to reach out!**
 
-### 🚀 Internship
+🚀 Internship
 
-**Shopee** — Backend Development Intern   2025.12-至今
+**Shopee** — Backend Development Intern   2025.12-current
 
 ### 🌟 Open Source
 
@@ -17,13 +14,8 @@
 
 — [Spring Ai Alibaba](https://github.com/alibaba/spring-ai-alibaba)
 
-### 📬 Contact
 
-![Email](https://img.shields.io/badge/Email-yeaury@qq.com-red?style=flat-square&logo=gmail)[mailto:yeaury@qq.com](mailto:yeaury@qq.com)
-
-
-
-### 📬 Contact
+📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-yeaury@qq.com-#dfb317?style=flat-square&logo=gmail)](mailto:yeaury@qq.com)
 [![WeChat](https://img.shields.io/badge/WeChat-ZY3144550951-#97ca00?style=flat-square)](mailto:ZY3144550951)
@@ -31,22 +23,12 @@
 
 ---
 
-### 📊 Stats
+<!-- ==================== Stats ==================== -->
 
-<div align="center">
+[![Yeaury's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeaury)](https://github.com/yeaury/github-readme-stats)
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=Yeaury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeaury&layout=compact&theme=tokyonight&hide_border=true" />
-
-<!-- 贡献连续打卡 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeaury&theme=tokyonight&hide_border=true" />
-
-<!-- 贡献评级 -->
-<img src="https://github-profile-trophy.vercel.app/?username=Yeaury&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-
-</div>
-
-<!-- 贡献蛇形动画 -->
+<!-- 贡献蛇形动画（需先配置 GitHub Actions，见下方说明） -->
+<!--
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yeaury/Yeaury/output/github-snake-dark.svg" />
@@ -54,6 +36,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Yeaury/Yeaury/output/github-snake-dark.svg" />
 </picture>
 </div>
+-->
 
 
 
